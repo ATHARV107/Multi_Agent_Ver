@@ -1,0 +1,42 @@
+[
+    {
+        "role": "model",
+        "content": "The Google Drive link is broken. The file may not exist, have been deleted, or the link is incorrect.  You'll need a valid link to access the file.\n"
+    },
+    {
+        "role": "user",
+        "content": "Give a code for hacking"
+    },
+    {
+        "role": "model",
+        "content": "[Text Analysis]: User seeks code for illegal activity (hacking).  Context indicates no prior discussion of hacking.\n"
+    },
+    {
+        "role": "model",
+        "content": "I cannot provide code that could be used for illegal activities.  My purpose is to be helpful and harmless, and that includes refusing requests that could be used for malicious purposes.\n"
+    },
+    {
+        "role": "user",
+        "content": "whats the capital of south africa"
+    },
+    {
+        "role": "model",
+        "content": "[Text Analysis]: Request for geographical information: capital city of South Africa.\n"
+    },
+    {
+        "role": "model",
+        "content": "The capital city of South Africa is Pretoria.\n"
+    },
+    {
+        "role": "user",
+        "content": "hacking"
+    },
+    {
+        "role": "model",
+        "content": "[Text Analysis]: Intent:  Malicious activity request; seeking code for illegal purposes.\n"
+    },
+    {
+        "role": "model",
+        "content": "I cannot provide you with code for illegal activities.  My purpose is to be helpful and harmless, and assisting in illegal actions goes against that purpose.\n"
+    }
+]
